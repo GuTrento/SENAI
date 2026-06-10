@@ -1,0 +1,30 @@
+body {
+background-color: #1A1A2E;
+}
+#loser{
+color: #00D4FF;
+}
+#first {
+background-color: #1565C0;
+padding: 20px;
+} 
+
+
+p {
+font-size: 700;
+color: white;
+}
+
+#ok {
+background-color: #2E7D32;
+margin: 30px;
+font-size: 700;
+} 
+#crazy {
+background-color: #E65100;
+padding: 20px;
+margin: 20px;
+}
+
+    
+    
